@@ -1,0 +1,1 @@
+# EquityAssetClass
